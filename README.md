@@ -1,5 +1,5 @@
 # postman-api-testing-selflearning
-Hands-on REST API testing project using Postman, covering API requests, CRUD operations, variables, environments, authentication, test scripts, assertions, and data-driven testing.
+Gained hands-on experience in API testing using Postman, including testing REST APIs with GET, POST, PUT, PATCH, and DELETE methods. Practiced validating HTTP status codes, JSON responses, request parameters, headers, and authentication. Created basic API test scripts and assertions, and worked with Postman Collections, Variables, and Environments to organize and execute API test cases.
 
 HTTP Method = Action you want to perform on server
 
