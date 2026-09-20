@@ -1,4 +1,4 @@
-# postman-api-testing-project
+# postman-api-testing-selflearning
 Hands-on REST API testing project using Postman, covering API requests, CRUD operations, variables, environments, authentication, test scripts, assertions, and data-driven testing.
 
 HTTP Method = Action you want to perform on server
