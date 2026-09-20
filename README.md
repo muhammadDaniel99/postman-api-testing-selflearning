@@ -46,6 +46,7 @@ DELETE
 ** Deletes resource (simulation in JSONPlaceholder)
 
 ==========================================================================================================================
+
 Query Parameters, Headers, Request Body
 
 API = Food order
@@ -73,6 +74,7 @@ multiple query
 Extra data (filters) sent in URL
 
 *************************************************************
+
 Headers
 
 Content-Type: application/json -> Tells server: "I am sending JSON data"
@@ -90,6 +92,7 @@ labels on box -> headers
 ** headers = instructions for server
 
 *************************************************************
+
 Request Body
 
 POST, PUT, PATCH
@@ -111,11 +114,13 @@ Online form submission
 *Body -> Form data you fill
 
 =============================================================
+
 Collections
 
 - Collection is like a project folder where we keep all API requests
 
 =============================================================
+
 Mini Project 1
 
 - Auth handling
@@ -138,6 +143,7 @@ base_url = https://dummyjson.com
 8) Save Product Id for next requests
 
 =============================================================
+
 Mini Project 2
 
 E-Commerce Flow: Product -> Cart -> Validation -> Automation
